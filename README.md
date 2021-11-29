@@ -8,7 +8,7 @@
 
 使用 C 语言：
 
-- [PAT (Basic Level) Practice （中文）](<./src/PAT%20(Basic%20Level)%20Practice%20（中文）/README.md>)
+- [PAT (Basic Level) Practice （中文）](<./src/PAT%20(Basic%20Level)%20Practice%20（中文）/>)
 - PAT (Advanced Level) Practice
 - PAT (Top Level) Practice
 
