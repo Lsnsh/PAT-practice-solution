@@ -1,0 +1,8 @@
+# PAT files
+src/PAT*/*
+src/PAT (Advanced Level) Practice
+!src/PAT*/*.c
+!src/PAT*/*.md
+
+# Other
+.DS_Store
